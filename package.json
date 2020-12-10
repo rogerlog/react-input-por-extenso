@@ -1,0 +1,31 @@
+{
+    "name": "react-input-por-extenso",
+    "version": "0.1.0",
+    "description": "Componente React que retorna número por extenso",
+    "main": "index.js",
+    "repository": "https://github.com/rogerlog/react-input-por-extenso.git",
+    "author": "Roger Guimaraes",
+    "license": "MIT",
+    "private": false,
+    "scripts": {
+        "start": "webpack serve --hot --port=8000"
+    },
+    "devDependencies": {
+        "@babel/cli": "^7.12.10",
+        "@babel/core": "^7.12.10",
+        "@babel/preset-env": "^7.12.10",
+        "@babel/preset-react": "^7.12.10",
+        "babel-loader": "^8.2.2",
+        "html-webpack-plugin": "^4.5.0",
+        "prop-types": "^15.7.2",
+        "react": "^17.0.1",
+        "react-dom": "^17.0.1",
+        "webpack": "^5.10.0",
+        "webpack-cli": "^4.2.0",
+        "webpack-dev-server": "^3.11.0",
+        "webpack-merge": "^5.4.1"
+    },
+    "dependencies": {
+        "numero-por-extenso": "^1.0.8"
+    }
+}
