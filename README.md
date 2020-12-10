@@ -2,6 +2,8 @@
 
 Componente React que retorna número por extenso
 
+[![npm](https://img.shields.io/npm/v/number-extension-rogerlog)](https://www.npmjs.com/package/number-extension-rogerlog)![NPM](https://img.shields.io/npm/l/number-extension-rogerlog)
+
 ## Como instalar
 
 Abaixo as formas de como instalar essa biblioteca utilizando o npm ou yarn:
