@@ -1,5 +1,5 @@
 {
-    "name": "react-input-por-extenso",
+    "name": "number-extension-rogerlog",
     "version": "0.1.0",
     "description": "Componente React que retorna número por extenso",
     "main": "dist/index.js",
